@@ -1,0 +1,6 @@
+2021-06-16 11:45:18,924 root INFO this is my first test code for log
+2021-06-16 11:45:23,096 user1 INFO this is info for logger one
+2021-06-16 11:45:23,097 user2 DEBUG this is debug for logger two
+2021-06-16 11:45:23,099 user2 INFO this is info for logger two
+2021-06-16 11:45:23,100 user3 DEBUG this is debug for logger two
+2021-06-16 11:45:23,102 user4 INFO this is info for logger two

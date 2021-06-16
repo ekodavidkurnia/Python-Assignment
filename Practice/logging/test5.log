@@ -1,0 +1,4 @@
+2021-06-15 16:53:20,223 INFO this is my first test code for log
+2021-06-15 16:54:04,203 INFO this is info for logger one
+2021-06-15 16:54:04,204 DEBUG this is debug for logger two
+2021-06-15 16:54:04,205 INFO this is info for logger two
