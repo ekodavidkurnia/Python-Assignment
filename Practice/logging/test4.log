@@ -1,0 +1,48 @@
+2021-06-15 16:39:09,348 DEBUG pickle loaded: c:\users\windows\appdata\local\programs\python\python38\lib\logging\__init__.py
+2021-06-15 16:39:30,195 DEBUG diff parser start
+2021-06-15 16:39:30,195 DEBUG line_lengths old: 1; new: 2
+2021-06-15 16:39:30,196 DEBUG -> code[replace] old[1:1] new[1:2]
+2021-06-15 16:39:30,196 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2021-06-15 16:39:30,197 DEBUG diff parser end
+2021-06-15 16:39:30,266 DEBUG pickle loaded: c:\users\windows\appdata\local\programs\python\python38\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-06-15 16:39:30,290 DEBUG pickle loaded: c:\users\windows\appdata\local\programs\python\python38\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2021-06-15 16:39:30,360 DEBUG pickle loaded: c:\users\windows\appdata\local\programs\python\python38\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-06-15 16:42:19,544 DEBUG diff parser start
+2021-06-15 16:42:19,545 DEBUG line_lengths old: 2; new: 1
+2021-06-15 16:42:19,545 DEBUG -> code[replace] old[1:2] new[1:1]
+2021-06-15 16:42:19,546 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:42:19,547 DEBUG diff parser end
+2021-06-15 16:42:25,125 DEBUG diff parser start
+2021-06-15 16:42:25,125 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:42:25,125 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:42:25,126 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:42:25,126 DEBUG diff parser end
+2021-06-15 16:44:46,454 DEBUG diff parser start
+2021-06-15 16:44:46,455 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:44:46,455 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:44:46,455 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:44:46,455 DEBUG diff parser end
+2021-06-15 16:44:50,467 DEBUG diff parser start
+2021-06-15 16:44:50,468 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:44:50,468 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:44:50,468 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:44:50,468 DEBUG diff parser end
+2021-06-15 16:45:01,825 DEBUG diff parser start
+2021-06-15 16:45:01,825 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:45:01,825 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:45:01,826 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:45:01,826 DEBUG diff parser end
+2021-06-15 16:45:08,238 DEBUG diff parser start
+2021-06-15 16:45:08,239 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:45:08,239 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:45:08,240 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:45:08,240 DEBUG diff parser end
+2021-06-15 16:45:34,034 INFO this is my first test code for log
+2021-06-15 16:46:03,847 DEBUG diff parser start
+2021-06-15 16:46:03,848 DEBUG line_lengths old: 1; new: 1
+2021-06-15 16:46:03,849 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-06-15 16:46:03,851 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-06-15 16:46:03,852 DEBUG diff parser end
+2021-06-15 16:47:43,978 INFO this is info for logger one
+2021-06-15 16:47:43,979 DEBUG this is debug for logger two
+2021-06-15 16:47:43,979 INFO this is info for logger one
