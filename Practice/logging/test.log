@@ -1,0 +1,37 @@
+INFO:root:I am going to make info
+WARNING:root:I am going to make WARNING
+ERROR:root:I am going to make ERROR
+INFO:root:I am going to make info
+WARNING:root:I am going to make WARNING
+ERROR:root:I am going to make ERROR
+2021-06-14 15:01:40,969 I am going to make info
+2021-06-14 15:01:41,338 I am going to make WARNING
+2021-06-14 15:01:41,736 I am going to make ERROR
+2021-06-14 15:03:52,996 I am going to make info
+2021-06-14 15:03:53,547 I am going to make WARNING
+2021-06-14 15:03:54,023 I am going to make ERROR
+2021-06-14 15:04:23,963 I am going to make ERROR
+2021-06-14 15:08:48,214 error has occured
+2021-06-14 15:08:48,214 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-12-7c529e723572>", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-06-14 15:13:38,865 error has occured
+2021-06-14 15:13:38,865 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-cc605cc9e662>", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-06-14 15:15:09,150 error has occured
+2021-06-14 15:15:09,150 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-cc605cc9e662>", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-06-15 15:38:46,431 error has occured
+2021-06-15 15:38:46,432 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-cc605cc9e662>", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero

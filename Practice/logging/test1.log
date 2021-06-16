@@ -1,0 +1,9 @@
+INFO:root:this is start of function
+INFO:root:this is start of function
+INFO:root:36
+INFO:root:this is my INFO log
+WARNING:root:this is my WARNING log
+ERROR:root:this is my EXCEPTION log
+NoneType: None
+ERROR:root:this is my ERROR log
+CRITICAL:root:this is my CRITICAL log
